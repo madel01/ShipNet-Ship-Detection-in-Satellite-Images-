@@ -1,4 +1,4 @@
-# ShipNet-Ship-Detection-in-Satellite-Images-
+# ShipNet (Ship-Detection-in-Satellite-Images)
 
 This project implements a ship detection system using a combination of a classification model and a sliding window technique. The dataset is divided into two parts:
 
