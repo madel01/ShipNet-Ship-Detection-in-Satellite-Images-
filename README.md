@@ -12,6 +12,6 @@ Dataset Link: https://www.kaggle.com/datasets/rhammell/ships-in-satellite-imager
 ### Examples of Ship Detection
 Below is an example showcasing the sliding window technique applied to detect ships in a satellite image:
 
-![Ship Detection Visualization](results/res.png)
+![Ship Detection Visualization](results/download1.png)
 
-![Ship Detection Visualization](results/res(4).png)
+![Ship Detection Visualization](results/download2.png)
